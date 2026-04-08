@@ -19,6 +19,6 @@ Sorunsuz bir oyun deneyimi için aşağıdaki adımları sırasıyla uygulamanı
 ## ⚠️ ÖNEMLİ UYARI: TR Sunucusuna Geri Dönüş
 
 Eğer bu Türkçe istemciyi kullandıktan sonra **Türkiye (TR) sunucusunda** orijinal sürümle oynamak isterseniz, çakışma olmaması için şu işlemleri yapmalısınız:
-1. İndirdiğiniz bu özel Türkçe Client klasörünü silin.
+1. İndirdiğiniz bu özel Türkçe Client uygulamasını denetim masasından ve klasör olarak silin.
 2. `Windows + R` yapıp `%appdata%` yazarak açılan klasördeki **`ddt-play-mini-client`** klasörünü **tekrar silin**.
 3. Ardından TR sunucusunun kendi orijinal Client'ını indirip kurarak giriş yapabilirsiniz.
