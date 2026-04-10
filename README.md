@@ -1,17 +1,23 @@
-# 💣 Bombom Brezilya - Tam Türkçe Modlu İstemci (v1.1.0)
+## 🎯 Bombom Türkçe İstemci (Brezilya Sunucusu İçin)
 
-Bu proje, Bombom (DDTank) Brezilya sunucusunda oynarken dil bariyerini ortadan kaldırmak için özel olarak geliştirilmiş modlu bir istemcidir. Oyun içindeki Portekizce arayüz, butonlar ve eşya açıklamaları, özel bir "Radar Sistemi" sayesinde anlık olarak Türkçeye çevrilir.
+Bu proje, Bombom (DDTank) Brezilya sunucusunda oynayan Türk oyuncular için özel olarak geliştirilmiş **Tamamen Türkçe ve Optimize Edilmiş** bir oyun istemcisidir (Client). Oyun içi metinler, etkinlikler ve eşyalar çevrilmiş olup, oyunun akıcılığını artırmak için özel radar sistemi eklenmiştir.
 
-## 🚀 Özellikler
-* **3 Aşamalı Akıllı Radar Sistemi:** Oyunun dosyalarını anlık tarayıp Türkçe olanlarla değiştirir.
-* **Tam Çeviri:** Yüzlerce eşya, menü ve arayüz butonu özenle Türkçeye çevrilmiştir.
-* **Hızlı Kurulum:** Karmaşık ayarlar yok, tek tıkla kur ve oynamaya başla.
+## 🛠️ Kurulum Adımları (Lütfen Sırayla Uygulayın)
 
-## 🛠️ Nasıl Kurulur ve Oynanır?
-1. Sağ taraftaki **Releases** bölümüne tıklayın (veya [buraya tıklayın](#)).
-2. En güncel sürüm olan `Bombom-Setup-1.1.0.exe` dosyasını indirin.
-3. İndirdiğiniz dosyayı çalıştırıp kurulumu tamamlayın.
-4. Masaüstüne gelen kısayoldan oyuna girip Türkçe oynamanın keyfini çıkarın!
+Sorunsuz bir oyun deneyimi için aşağıdaki adımları sırasıyla uygulamanız **çok önemlidir**:
 
-## 👨‍💻 Geliştirici Notu
-Bu istemci tamamen kişisel bir Tersine Mühendislik (Reverse Engineering) projesi olarak geliştirilmiştir.
+1. **Eski İstemciyi Kaldırın:** Bilgisayarınızda yüklü olan orijinal Bombom fırlatıcısını (launcher) Denetim Masası'ndan tamamen kaldırın.
+2. **Önbellek Temizliği:** Klavyenizden `Windows + R` tuşlarına aynı anda basın. Açılan "Çalıştır" penceresine `%appdata%` yazıp Enter'a basın. Açılan klasördeki **`ddt-play-mini-client`** isimli klasörü bulun ve **silin**.
+3. **İndirme ve Çıkartma:** Sağ taraftaki **"Releases"** bölümünden oyunun `Bombom Türkçe İstemci v1.1.0 dosyasını bilgisayarınıza indirin ve çift tıklayıp çalıştırın. 
+   * *Not:* Ekrana Windows Defender'ın mavi uyarısı gelirse **"Ek Bilgi"** yazısına, ardından **"Yine de çalıştır"** butonuna basın. Siyah bir ekran gelip kapanabilir, bu normaldir ve sisteminizin uygulamayı tanıması içindir.
+5. **Oyuna Giriş:** Oyunun resmi web sitesine gidin, hesabınıza giriş yapın ve oynamak istediğiniz sunucuyu seçin. Tarayıcınız yukarıdan bir uyarı verecektir; **"Bombom.exe uygulamasında aç"** (veya İzin Ver) seçeneğine tıklayın.
+6. **İyi Oyunlar!** Oyununuz tamamen Türkçe olarak açılacaktır. 🎉
+
+---
+
+## ⚠️ ÖNEMLİ UYARI: TR Sunucusuna Geri Dönüş
+
+Eğer bu Türkçe istemciyi kullandıktan sonra **Türkiye (TR) sunucusunda** orijinal sürümle oynamak isterseniz, çakışma olmaması için şu işlemleri yapmalısınız:
+1. İndirdiğiniz bu özel Türkçe Client klasörünü silin.
+2. `Windows + R` yapıp `%appdata%` yazarak açılan klasördeki **`ddt-play-mini-client`** klasörünü **tekrar silin**.
+3. Ardından TR sunucusunun kendi orijinal Client'ını indirip kurarak giriş yapabilirsiniz.
