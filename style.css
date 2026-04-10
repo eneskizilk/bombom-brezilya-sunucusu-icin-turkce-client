@@ -1,0 +1,71 @@
+:root {
+    --bg-wnd: none; --bg-min: none; --bg-max: none; --bg-close: none; --gizle-icon: none;
+}
+
+body { margin: 0; padding: 0; width: 100vw; height: 100vh; overflow: hidden; font-family: 'Segoe UI', Arial; background: transparent; }
+#frame { width: 100%; height: 100%; background-image: var(--bg-wnd); background-size: 100% 100%; display: flex; flex-direction: column; padding: 4px; box-sizing: border-box; }
+
+/* SÜRÜKLEME VE BAŞLIK */
+#titlebar { height: 28px; display: flex; align-items: center; justify-content: space-between; background: linear-gradient(to bottom, #ffffff 0%, #dcdcdc 100%); border-bottom: 1px solid #999; position: relative; }
+.drag-area { display: flex; align-items: center; gap: 5px; padding-left: 8px; -webkit-app-region: drag; flex: 1; height: 100%; }
+.title-text { font-weight: bold; color: #444; font-size: 13px; text-shadow: 1px 1px 0px #fff; pointer-events: none; }
+.left-icon { width: 18px; height: 18px; background-size: contain; background-repeat: no-repeat; }
+
+/* KONTROLLER (Sürükleme İptal) */
+.controls { display: flex; align-items: center; -webkit-app-region: no-drag; padding-right: 4px; gap: 4px; height: 100%; }
+
+.zoom-btn { background: #eee; border: 1px solid #aaa; color: #333; font-weight: bold; width: 24px; height: 20px; font-size: 14px; cursor: pointer; border-radius: 2px; display: flex; align-items: center; justify-content: center; }
+.zoom-btn:hover { background: #fff; border-color: #888; }
+.sys-wrapper { position: relative; display: inline-flex; align-items: center; margin-right: 8px; }
+#btn-temizle { background: transparent; color: #444; font-weight: bold; font-size: 11px; cursor: pointer; padding: 2px 8px; border: 1px solid #aaa; border-radius: 2px; text-transform: uppercase; }
+.q-mark { position: absolute; top: -7px; right: -7px; width: 16px; height: 16px; pointer-events: none; }
+
+.sprite { background-size: 300% 100%; background-position: 0 0; cursor: pointer; height: 20px; display: inline-block; }
+.sprite:hover { background-position: 50% 0; }
+.sprite:active { background-position: 100% 0; }
+#btn-min { width: 28px; background-image: var(--bg-min); }
+#btn-max { width: 28px; background-image: var(--bg-max); }
+#btn-close { width: 45px; background-image: var(--bg-close); }
+
+/* ---------------- EFSANE LOGO VE LOADING ANİMASYONU ---------------- */
+#splash-screen {
+    position: absolute; top: 0; left: 0; width: 100vw; height: 100vh;
+    background: transparent; /* TAMAMEN ŞEFFAF */
+    z-index: 9999; 
+    display: flex; align-items: center; justify-content: center;
+    transition: opacity 0.5s ease-out; 
+}
+.splash-content {
+    display: flex; flex-direction: column; align-items: center; gap: 15px;
+    transition: all 0.8s cubic-bezier(0.25, 1, 0.5, 1); 
+}
+#splash-logo {
+    width: 250px; 
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,0.4));
+}
+#loading-text {
+    color: #444; font-size: 15px; font-weight: bold; letter-spacing: 1px;
+    text-shadow: 1px 1px 0px #fff; transition: opacity 0.3s;
+}
+
+/* SIFIR CPU TÜKETEN CSS NOKTA ANİMASYONU */
+.dots::after {
+    content: '';
+    animation: nokta-animasyonu 1.5s steps(4, end) infinite;
+}
+@keyframes nokta-animasyonu {
+    0% { content: ''; }
+    25% { content: '.'; }
+    50% { content: '..'; }
+    75% { content: '...'; }
+    100% { content: ''; }
+}
+
+#splash-screen.loaded {
+    pointer-events: none; 
+}
+#splash-screen.loaded .splash-content {
+    transform: translate(calc(-50vw + 35px), calc(-50vh + 20px)) scale(0.07); 
+    opacity: 0; 
+}
+#splash-screen.loaded #loading-text { opacity: 0; }

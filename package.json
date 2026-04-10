@@ -1,0 +1,38 @@
+{
+  "name": "ddt-play-mini-client",
+  "version": "1.1.0",
+  "description": "Bombom Mini Client",
+  "author": "perfcuk",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win": "electron-builder --win --ia32"
+  },
+  "devDependencies": {
+    "electron": "^11.5.0",
+    "electron-builder": "^22.14.13"
+  },
+  "build": {
+    "appId": "com.bombom.client",
+    "productName": "Bombom",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icon.png",
+      "artifactName": "${productName}-Setup-${version}.${ext}"
+    },
+    "extraResources": [
+      "plugins/**/*",
+      "cmn/**/*",
+      "icon.png",
+      {
+        "from": "yama",
+        "to": ".",
+        "filter": ["**/*"]
+      }
+    ],
+    "asar": true
+  }
+}

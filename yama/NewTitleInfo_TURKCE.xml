@@ -1,0 +1,414 @@
+<Result value="true" message="Success!">
+  <Item ID="100" Order="25" Show="0" Name="Eğitimde eğitmen" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Etkinlik ödülleri" />
+  <Item ID="101" Order="26" Show="0" Name="Yüksek seviye usta" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Etkinlik ödülleri" />
+  <Item ID="102" Order="27" Show="0" Name="Ünvanı: Prof. Sıcak" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Etkinlik ödülleri" />
+  <Item ID="103" Order="28" Show="0" Name="Kuzeyin ve Güneyin Efendisi" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Etkinlik ödülleri" />
+  <Item ID="104" Order="29" Show="0" Name="Usta ol" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Etkinlik ödülleri" />
+  <Item ID="105" Order="30" Show="0" Name="Dünyaca ünlü" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1000 GM hoparlör kullanın" />
+  <Item ID="106" Order="31" Show="0" Name="Her yerde ünlü" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1000 Büyük hoparlör kullanın" />
+  <Item ID="107" Order="32" Show="0" Name="Her alanda ünlü" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1000 Küçük Hoparlör Kullan" />
+  <Item ID="108" Order="33" Show="0" Name="Hazinelerin Efendisi" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Loncaya 50000 Servet Bağışlayın" />
+  <Item ID="109" Order="34" Show="0" Name="Sonsuz Aşk" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1024 kez evlen" />
+  <Item ID="110" Order="35" Show="0" Name="Sonsuza kadar birlikte olacağız" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1024 kez evlen" />
+  <Item ID="111" Order="36" Show="0" Name="Korkunç saldırı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 saldırı noktasına ulaşın" />
+  <Item ID="112" Order="37" Show="0" Name="Savunma ustası" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 savunma puanına ulaşın" />
+  <Item ID="113" Order="38" Show="0" Name="Gök gürültüsünden daha hızlı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 çeviklik puanına ulaşın" />
+  <Item ID="114" Order="39" Show="0" Name="Şanslı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 şans puanına ulaşın" />
+  <Item ID="115" Order="40" Show="0" Name="Maymun Kral" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="60000 FC'ye ulaşın" />
+  <Item ID="116" Order="41" Show="0" Name="Kraliçeyi yen" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Karınca Kraliçesini 2000 kez yen" />
+  <Item ID="117" Order="42" Show="0" Name="Bugous'un Düşmanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Bugou Kalesi Patronunu 2000 kez yen" />
+  <Item ID="118" Order="43" Show="0" Name="Kral Solaan" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Kabile Şefini 2000 kez yen" />
+  <Item ID="119" Order="44" Show="0" Name="Durdurulamaz" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="10000 oyuncuyu öldür" />
+  <Item ID="120" Order="45" Show="0" Name="Nihai Savaşçı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Ücretsiz savaşlarda 10.000 kez kazanın" />
+  <Item ID="121" Order="46" Show="0" Name="Toplumun seçkinleri" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Lonca savaşlarında 5000 kez kazanın" />
+  <Item ID="122" Order="47" Show="0" Name="Süper zengin" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="300 bin altın alın" />
+  <Item ID="123" Order="48" Show="0" Name="En zengin" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="10 milyon Altın alın" />
+  <Item ID="124" Order="49" Show="0" Name="zenginlik tanrısı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Baskısız" />
+  <Item ID="125" Order="50" Show="0" Name="Büyük Zafer" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="300 madalya al" />
+  <Item ID="126" Order="51" Show="0" Name="Tanrı'nın onuru" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="5000 madalya alın" />
+  <Item ID="127" Order="52" Show="0" Name="DDTank'a Üye Alımı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="15. seviyeye ulaş" />
+  <Item ID="128" Order="53" Show="0" Name="DDTank Çavuşu" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="25. seviyeye ulaş" />
+  <Item ID="129" Order="54" Show="0" Name="DDTank Teğmen" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="30. seviyeye ulaş" />
+  <Item ID="130" Order="55" Show="0" Name="DDTank Albay" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="35. seviyeye ulaş" />
+  <Item ID="131" Order="56" Show="0" Name="DDTank Mareşal" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="40. seviyeye ulaş" />
+  <Item ID="132" Order="57" Show="0" Name="Toplum Savaşçısı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Lonca savaşlarında 1000 kez kazanın" />
+  <Item ID="133" Order="58" Show="0" Name="Deneyimli" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1000 dövüşü tamamla" />
+  <Item ID="134" Order="59" Show="0" Name="Savaşmak için çılgın" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="10.000 dövüşü tamamla" />
+  <Item ID="135" Order="60" Show="0" Name="İyimser" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Sunucular arası savaşlarda 2000 zafer elde edin" />
+  <Item ID="136" Order="61" Show="0" Name="Karanlığın Kralı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Minotaur'u 400 kez yen" />
+  <Item ID="137" Order="62" Show="0" Name="Gökkuşağı Topu Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 maç kazanmak için Gökkuşağı Topu'nu kullanın" />
+  <Item ID="138" Order="63" Show="0" Name="Tanrı'nın Rüzgar Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 oyun kazanmak için tanrı rüzgarını kullanın" />
+  <Item ID="139" Order="64" Show="0" Name="Yoğun Ateşin Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 maç kazanmak için Yoğun Ateş'i kullanın" />
+  <Item ID="140" Order="65" Show="0" Name="Tuğla Kırıcı Kahraman" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 oyun kazanmak için Brick Breaker'ı kullanın" />
+  <Item ID="141" Order="66" Show="0" Name="Vantuz Kahramanının Engelini Kaldırma" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 maç kazanmak için Engellemeyi Kaldıran Vantuz'u kullanın" />
+  <Item ID="142" Order="67" Show="0" Name="Newton'un Meyve Sepeti Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 oyun kazanmak için Newton'un Meyve Sepetini kullanın" />
+  <Item ID="143" Order="68" Show="0" Name="Sağlık Takımı Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 maç kazanmak için Medikit'i kullanın" />
+  <Item ID="144" Order="69" Show="0" Name="Yıldırım Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 oyun kazanmak için Thunder'ı kullanın" />
+  <Item ID="145" Order="70" Show="0" Name="Ev Aletleri Kahramanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="700 oyun kazanmak için Ev Aletlerini kullanın" />
+  <Item ID="146" Order="71" Show="0" Name="Silah Ustası" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Necessário conseguir todos os 9 títulos de armas" />
+  <Item ID="147" Order="72" Show="0" Name="Güçlendirme Uzmanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Seviye 12'ye yükseltilmiş 1 parça ekipman donatın" />
+  <Item ID="148" Order="73" Show="0" Name="Hazinelerle dolu" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 inciyi aç" />
+  <Item ID="149" Order="74" Show="0" Name="Bağımlı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="60.000 dakikanızı çevrimiçi geçirin" />
+  <Item ID="150" Order="75" Show="0" Name="Tara" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Anthill'i 5000 kez geç" />
+  <Item ID="151" Order="76" Show="0" Name="Uzak Örnek Kralı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Passar Castelo de Bugou 5000 vezes" />
+  <Item ID="152" Order="77" Show="0" Name="Ben Hükümdarım" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Piatan Kabilesini 5000 kez geç" />
+  <Item ID="153" Order="78" Show="0" Name="V5" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="500 galibiyet için bir reklam gönderin" />
+  <Item ID="154" Order="79" Show="0" Name="Kahramanlar" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Klan savaşlarında 10.000 Servet yağmalayın" />
+  <Item ID="155" Order="80" Show="0" Name="Görev Çılgınlığı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="2000 günlük görevi tamamla" />
+  <Item ID="156" Order="81" Show="0" Name="İnsanlara karşı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Karanlık Kale'yi 500 kez geç" />
+  <Item ID="157" Order="82" Show="0" Name="Ödüllerle Dolu" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Savaşlarda 50.000 değer toplayın" />
+  <Item ID="158" Order="83" Show="0" Name="Mükemmel silah" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Eş Savaşlarında 3000 kez kazanın" />
+  <Item ID="159" Order="84" Show="0" Name="vip" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="1. Seviye VIP Erişimi" />
+  <Item ID="160" Order="85" Show="0" Name="altın VIP" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="3. Seviye VIP Erişimi" />
+  <Item ID="161" Order="86" Show="0" Name="Beyaz altın VIP" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="5. Seviye VIP Erişimi" />
+  <Item ID="162" Order="87" Show="0" Name="Elmas VIP" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="7. Seviye VIP Erişimi" />
+  <Item ID="163" Order="88" Show="0" Name="Aşırı VIP" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="9. Seviye VIP Erişimi" />
+  <Item ID="164" Order="89" Show="0" Name="Eşek" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Eşek Çürük Yumurtalarını 400 kez yen" />
+  <Item ID="165" Order="90" Show="0" Name="Chick'i hızla vur" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Civcivleri Geç 500 kez hızlı koş" />
+  <Item ID="166" Order="91" Show="0" Name="Boks Şampiyonu" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Black Whistler'ı 400 kez yen" />
+  <Item ID="167" Order="92" Show="0" Name="Spor Şampiyonu" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Boom Olimpiyatlarını 500 kez geç" />
+  <Item ID="168" Order="93" Show="0" Name="Ejderha Avcısı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Bulubatuosi'yi 400 kez yen" />
+  <Item ID="169" Order="94" Show="0" Name="Cesur" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Ejderhanın İnini 500 kez geç" />
+  <Item ID="170" Order="95" Show="0" Name="Tam savaşçı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Eğitim kampındaki 5 ileri düzey alıştırmanın tümünü geçin" />
+  <Item ID="171" Order="96" Show="0" Name="Terminatör" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Ligeli'yi 400 kez yen" />
+  <Item ID="172" Order="97" Show="0" Name="Koruma Alanı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Space Whirlwind'i 500 kez geçin" />
+  <Item ID="173" Order="98" Show="0" Name="Savaşçı" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Çifte Kralı 400 kez yen" />
+  <Item ID="174" Order="99" Show="0" Name="DD Diktatör" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="50. seviyeye ulaş" />
+  <Item ID="175" Order="100" Show="0" Name="Tanrım DD" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="60. seviyeye ulaş" />
+  <Item ID="176" Order="101" Show="0" Name="Arena İmparatoru" Pic="0" Att="0" Def="0" Agi="0" Luck="0" Desc="Savaşçı Arenasını 500 kez geç" />
+  <Item ID="602" Order="1" Show="1" Name="Kralın savaş gücü" Pic="1001" Att="30" Def="0" Agi="0" Luck="0" Desc="Kendi sunucusunda en iyi 1 FC" />
+  <Item ID="603" Order="2" Show="1" Name="Büyüleyici" Pic="1002" Att="0" Def="0" Agi="0" Luck="10" Desc="Sunucunun kendisinde en iyi 1 cazibe" />
+  <Item ID="604" Order="3" Show="1" Name="Arenanın Kralı" Pic="1003" Att="10" Def="0" Agi="20" Luck="0" Desc="Sunucunun kendisinde en iyi 1 itibar" />
+  <Item ID="611" Order="4" Show="1" Name="İmparator Elmas" Pic="1004" Att="0" Def="0" Agi="0" Luck="30" Desc="Hegemonik rekabet DDT şampiyonunun kralı" />
+  <Item ID="612" Order="5" Show="1" Name="İmparator Altın" Pic="1005" Att="0" Def="0" Agi="0" Luck="20" Desc="Hegemonik rekabet DDT Kralı ikincisi" />
+  <Item ID="613" Order="6" Show="1" Name="İmparator Gümüş" Pic="1006" Att="0" Def="0" Agi="0" Luck="10" Desc="DDT hegemonik rekabetin kralı üçüncülük" />
+  <Item ID="614" Order="7" Show="1" Name="İyi oyuncu" Pic="1007" Att="0" Def="0" Agi="10" Luck="0" Desc="Hegemonik rekabet DDT Kralı sıralaması 4 - 8" />
+  <Item ID="615" Order="8" Show="1" Name="Gezgin Şövalye" Pic="1008" Att="0" Def="0" Agi="10" Luck="0" Desc="Sunucunun kendisinde TOP 1 montajı" />
+  <Item ID="616" Order="9" Show="1" Name="5 Yıllık Tarih" Pic="1009" Att="5" Def="5" Agi="5" Luck="5" Desc="DDTank'taki büyümeye tanıksınız, soruşturmayı başlatmak için bu notu imzalayın." />
+  <Item ID="618" Order="10" Show="1" Name="ağustosböceği" Pic="1011" Att="5" Def="5" Agi="15" Luck="5" Desc="Sunucular arası böcek etkinliği ödül sıralaması" />
+  <Item ID="619" Order="11" Show="1" Name="Böcek Avı II" Pic="1012" Att="0" Def="0" Agi="10" Luck="0" Desc="Böcek kaosu etkinliği ödül sıralaması" />
+  <Item ID="620" Order="12" Show="1" Name="Böcek Avı III" Pic="1013" Att="0" Def="0" Agi="15" Luck="0" Desc="Böcek kaosu etkinliği ödül sıralaması" />
+  <Item ID="621" Order="13" Show="1" Name="Böcek Avı I" Pic="1014" Att="0" Def="0" Agi="5" Luck="0" Desc="Böcek kaosu etkinliği ödül sıralaması" />
+  <Item ID="622" Order="14" Show="1" Name="Erken kalkan" Pic="1015" Att="0" Def="0" Agi="10" Luck="0" Desc="Etkinlik yoluyla alındı" />
+  <Item ID="624" Order="15" Show="1" Name="Yenilmez" Pic="1017" Att="0" Def="20" Agi="0" Luck="0" Desc="Etkinlik yoluyla alındı" />
+  <Item ID="625" Order="16" Show="1" Name="Rüzgar gibi" Pic="1018" Att="20" Def="20" Agi="20" Luck="20" Desc="Etkinlik yoluyla alındı" />
+  <Item ID="626" Order="17" Show="1" Name="Kral Böceği" Pic="1019" Att="10" Def="10" Agi="15" Luck="5" Desc="Sunucular arası böcek etkinliği ödül sıralaması" />
+  <Item ID="627" Order="18" Show="1" Name="Çiçek" Pic="1020" Att="30" Def="30" Agi="30" Luck="30" Desc="Etkinlik yoluyla alındı" />
+  <Item ID="629" Order="19" Show="1" Name="Yusufçuk" Pic="1022" Att="5" Def="5" Agi="10" Luck="0" Desc="Sunucular arasında böcek sıralaması olayı" />
+  <Item ID="643" Order="156" Show="1" Name="Sunucu No.1" Pic="1036" Att="80" Def="80" Agi="80" Luck="80" Desc="Faaliyetler" />
+  <Item ID="658" Order="139" Show="1" Name="Bela ve Rika Kartı" Pic="1051" Att="80" Def="80" Agi="80" Luck="80" Desc="Faaliyetler" />
+  <Item ID="659" Order="140" Show="1" Name="Belo ve RIco Kartı" Pic="1052" Att="80" Def="80" Agi="80" Luck="80" Desc="Faaliyetler" />
+  <Item ID="675" Order="102" Show="1" Name="Mükemmel eşleşme" Pic="1068" Att="20" Def="20" Agi="20" Luck="20" Desc="Gelişmiş Düğün Partisi aracılığıyla edinin." />
+  <Item ID="676" Order="103" Show="1" Name="Kalıcı aşk" Pic="1069" Att="30" Def="30" Agi="30" Luck="30" Desc="Gelişmiş Düğün Partisi aracılığıyla edinin." />
+  <Item ID="686" Order="104" Show="1" Name="İmha Uzmanı" Pic="1079" Att="15" Def="10" Agi="10" Luck="10" Desc="Combo Master Etkinliğini Kazandı" />
+  <Item ID="687" Order="105" Show="1" Name="Fotografik Bellek" Pic="1080" Att="10" Def="10" Agi="15" Luck="10" Desc="Kazanılan Çift Etkinliği" />
+  <Item ID="688" Order="106" Show="1" Name="Dünyada eşi benzeri olmayan" Pic="1081" Att="80" Def="80" Agi="80" Luck="80" Desc="Savaş gücü tüm krallıklarda 1. sırada yer aldı." />
+  <Item ID="689" Order="107" Show="1" Name="Dünyada Eşsiz" Pic="1082" Att="70" Def="70" Agi="70" Luck="70" Desc="Savaş gücü tüm krallıklarda 2. sırada yer aldı." />
+  <Item ID="690" Order="108" Show="1" Name="Rakipsiz beceriler" Pic="1083" Att="60" Def="60" Agi="60" Luck="60" Desc="Savaş gücü tüm krallıklarda 3. sırada yer aldı." />
+  <Item ID="691" Order="109" Show="1" Name="Kutsal Kart Toplayıcı" Pic="1084" Att="20" Def="10" Agi="20" Luck="10" Desc="Kutsal Kart Alım etkinliğinden alın" />
+  <Item ID="692" Order="110" Show="1" Name="Garip Ruh" Pic="1085" Att="20" Def="20" Agi="20" Luck="20" Desc="Etkinlik ödülleri" />
+  <Item ID="693" Order="111" Show="1" Name="Sevimli Ruh" Pic="1086" Att="40" Def="40" Agi="40" Luck="40" Desc="Etkinlik ödülleri" />
+  <Item ID="694" Order="112" Show="1" Name="yaramaz ruh" Pic="1087" Att="30" Def="30" Agi="30" Luck="30" Desc="Etkinlik ödülleri" />
+  <Item ID="695" Order="117" Show="1" Name="Savaşçının Kaderi" Pic="1088" Att="10" Def="15" Agi="5" Luck="5" Desc="Etkinlik ödülleri" />
+  <Item ID="698" Order="118" Show="1" Name="Güzellik Tanrıçası" Pic="1091" Att="50" Def="50" Agi="50" Luck="50" Desc="Etkinlik ödülleri" />
+  <Item ID="699" Order="119" Show="1" Name="Olimpiyat Şampiyonu" Pic="3001" Att="50" Def="50" Agi="50" Luck="50" Desc="Etkinlik ödülleri" />
+  <Item ID="701" Order="120" Show="1" Name="Küçük Altın Kart. Adam" Pic="1094" Att="20" Def="20" Agi="20" Luck="20" Desc="Başarı Kartı Alındı" />
+  <Item ID="702" Order="121" Show="1" Name="Altın Koleksiyoncu Kartı" Pic="1095" Att="50" Def="50" Agi="50" Luck="50" Desc="Başarı Kartı Alındı" />
+  <Item ID="703" Order="122" Show="1" Name="18 Bakır Adam" Pic="1096" Att="5" Def="5" Agi="5" Luck="5" Desc="Başarı Kartı Alındı" />
+  <Item ID="704" Order="123" Show="1" Name="Rabbin Evi" Pic="1097" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="705" Order="124" Show="1" Name="Kralın Elit Şehri" Pic="1098" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="706" Order="125" Show="1" Name="Karanlık fedakarlık" Pic="1099" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="707" Order="126" Show="1" Name="Komutan Gecesi" Pic="1100" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="708" Order="127" Show="1" Name="Ejderha Avcısı" Pic="1101" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="709" Order="128" Show="1" Name="zaman yolcusu" Pic="1102" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="710" Order="129" Show="1" Name="Kral Arenası" Pic="1103" Att="100" Def="100" Agi="100" Luck="100" Desc="Şehir Savaşları" />
+  <Item ID="744" Order="130" Show="1" Name="Erken Hisse Senedi Piyasası" Pic="3070" Att="5" Def="5" Agi="5" Luck="5" Desc="Taş Mağazasından Alınır" />
+  <Item ID="745" Order="131" Show="1" Name="Kıdemli Perakende" Pic="2071" Att="10" Def="10" Agi="10" Luck="10" Desc="Taş Mağazasından Alınır" />
+  <Item ID="746" Order="132" Show="1" Name="Kıdemli tüccar" Pic="2072" Att="15" Def="15" Agi="15" Luck="15" Desc="Taş Mağazasından Alınır" />
+  <Item ID="747" Order="133" Show="1" Name="Hisse senedi holdingi" Pic="2073" Att="20" Def="20" Agi="20" Luck="20" Desc="Taş Mağazasından Alınır" />
+  <Item ID="748" Order="134" Show="1" Name="Hisse Senedinin Yaşayan Tanrısı" Pic="2074" Att="30" Def="30" Agi="30" Luck="30" Desc="Taş Mağazasından Alınır" />
+  <Item ID="749" Order="135" Show="1" Name="S1 Geri Dönüşsüz Gümüş" Pic="2075" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="750" Order="136" Show="1" Name="S1 Korkusuz Altın Başlık Kartı" Pic="2076" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="751" Order="137" Show="1" Name="S1 Elmas Ebedi Unvan Kartı" Pic="2077" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="752" Order="138" Show="1" Name="S1 Olağanüstü Kral Unvan Kartı" Pic="2078" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="755" Order="225" Show="1" Name="uygunsuz" Pic="2081" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="756" Order="226" Show="1" Name="Egemen" Pic="2082" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="757" Order="141" Show="1" Name="En yüksek taht" Pic="2083" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="763" Order="142" Show="1" Name="S2 Geri Dönüşsüz Gümüş" Pic="2089" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="764" Order="143" Show="1" Name="S2 Korkusuz Altın" Pic="2090" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="765" Order="144" Show="1" Name="S2 Sonsuz Elmas" Pic="2091" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="766" Order="145" Show="1" Name="S2 Olağanüstü Kral" Pic="2092" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="767" Order="146" Show="1" Name="S3 Geri Dönüşsüz Gümüş" Pic="2093" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="768" Order="147" Show="1" Name="S3 Korkusuz Altın" Pic="2094" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="769" Order="148" Show="1" Name="S3 Ebedi Elmas" Pic="2095" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="770" Order="149" Show="1" Name="S3 Olağanüstü Kral" Pic="2096" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="786" Order="158" Show="1" Name="S4 Geri Dönüşsüz Gümüş" Pic="2112" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="787" Order="159" Show="1" Name="S4 Korkusuz Altın" Pic="2113" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="788" Order="160" Show="1" Name="S4 Ebedi Elmas" Pic="2114" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="789" Order="161" Show="1" Name="S4 Olağanüstü Kral" Pic="2115" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="790" Order="154" Show="1" Name="Küçük şeytan" Pic="2116" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="801" Order="162" Show="1" Name="S5 Geri Dönüşsüz Gümüş" Pic="2127" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="802" Order="163" Show="1" Name="S5 Korkusuz Altın" Pic="2128" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="803" Order="164" Show="1" Name="S5 Sonsuz Elmas" Pic="2129" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="804" Order="165" Show="1" Name="S5 Olağanüstü Kral" Pic="2130" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="807" Order="176" Show="1" Name="S6 Geri Dönüşsüz Gümüş" Pic="2133" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="808" Order="177" Show="1" Name="S6 Korkusuz Altın" Pic="2134" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="809" Order="178" Show="1" Name="S6 Sonsuz Elmas" Pic="2135" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="810" Order="179" Show="1" Name="S6 Olağanüstü Kral" Pic="2136" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="811" Order="184" Show="1" Name="S7 Geri Dönüşsüz Gümüş" Pic="2137" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="812" Order="185" Show="1" Name="S7 Korkusuz Altın" Pic="2138" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="813" Order="186" Show="1" Name="S7 Sonsuz Elmas" Pic="2139" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="814" Order="187" Show="1" Name="S7 Olağanüstü Kral" Pic="2140" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="816" Order="192" Show="1" Name="S8 Geri Dönüşsüz Gümüş" Pic="2142" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="817" Order="193" Show="1" Name="S8 Korkusuz Altın" Pic="2143" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="818" Order="194" Show="1" Name="S8 Ebedi Elmas" Pic="2144" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="819" Order="195" Show="1" Name="S8 Olağanüstü Kral" Pic="2145" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="820" Order="237" Show="1" Name="Okul Sırt Çantası" Pic="7009" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="822" Order="155" Show="1" Name="Bir numaralı hayran" Pic="2148" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="823" Order="197" Show="1" Name="S9 Geri Dönüşsüz Gümüş" Pic="2150" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="824" Order="198" Show="1" Name="S9 Korkusuz Altın" Pic="2151" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="825" Order="199" Show="1" Name="S9 Ebedi Elmas" Pic="2152" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="826" Order="200" Show="1" Name="S9 Olağanüstü Kral" Pic="2153" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="828" Order="175" Show="1" Name="Binicilik Yeteneği" Pic="2154" Att="5" Def="5" Agi="5" Luck="5" Desc="Binek lv9-9 yıldıza ulaşıyor" />
+  <Item ID="830" Order="180" Show="1" Name="Gizli Kral" Pic="2156" Att="50" Def="50" Agi="50" Luck="50" Desc="Gizli Savaşçı Mücadelesinde 1. sıra" />
+  <Item ID="831" Order="181" Show="1" Name="Güçlü Adam" Pic="2157" Att="30" Def="30" Agi="30" Luck="30" Desc="Gizli Savaşçı Mücadelesinde 2-10. sıra" />
+  <Item ID="832" Order="182" Show="1" Name="En Güçlü" Pic="2158" Att="30" Def="30" Agi="30" Luck="30" Desc="Savaşçı sırları sıralamasında 1. sıra" />
+  <Item ID="833" Order="204" Show="1" Name="S10 Geri Dönüşsüz Gümüş" Pic="2160" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="834" Order="205" Show="1" Name="S10 Korkusuz Altın" Pic="2161" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="835" Order="206" Show="1" Name="S10 Sonsuz Elmas" Pic="2162" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="836" Order="207" Show="1" Name="S10 Olağanüstü Kral" Pic="2163" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="850" Order="157" Show="1" Name="Balkabağı Şövalyesi" Pic="2174" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="853" Order="189" Show="1" Name="Altın harca" Pic="2177" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="854" Order="190" Show="1" Name="Sonsuz Zenginlik" Pic="2178" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="855" Order="191" Show="1" Name="Su Gibi Para Harcayın" Pic="2179" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="856" Order="183" Show="1" Name="Son Mücadele" Pic="2180" Att="8" Def="8" Agi="8" Luck="8" Desc="Secret Warrior 100 katmanı geçmek" />
+  <Item ID="857" Order="210" Show="1" Name="S11 Geri Dönüşsüz Gümüş" Pic="2166" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="858" Order="211" Show="1" Name="S11 Korkusuz Altın" Pic="2167" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="859" Order="212" Show="1" Name="S11 Sonsuz Elmas" Pic="2168" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="860" Order="213" Show="1" Name="S11 Olağanüstü Kral" Pic="2169" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="861" Order="188" Show="1" Name="Şansı Göster" Pic="2176" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="865" Order="166" Show="1" Name="1 yıllık asker" Pic="2189" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="866" Order="167" Show="1" Name="2 yıllık asker" Pic="2190" Att="12" Def="12" Agi="12" Luck="12" Desc="Faaliyetler" />
+  <Item ID="867" Order="168" Show="1" Name="3 yıllık asker" Pic="2191" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="868" Order="169" Show="1" Name="4 yıllık asker" Pic="2192" Att="18" Def="18" Agi="18" Luck="18" Desc="Faaliyetler" />
+  <Item ID="869" Order="170" Show="1" Name="5 yıllık asker" Pic="2193" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="870" Order="171" Show="1" Name="6 yıllık asker" Pic="2194" Att="22" Def="22" Agi="22" Luck="22" Desc="Faaliyetler" />
+  <Item ID="871" Order="172" Show="1" Name="7 yıllık asker" Pic="2195" Att="25" Def="25" Agi="25" Luck="25" Desc="Faaliyetler" />
+  <Item ID="872" Order="173" Show="1" Name="8 yıllık asker" Pic="2196" Att="28" Def="28" Agi="28" Luck="28" Desc="Faaliyetler" />
+  <Item ID="873" Order="174" Show="1" Name="9 yıllık asker" Pic="2197" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="874" Order="229" Show="1" Name="S13 Geri Dönüşsüz Gümüş" Pic="2228" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="875" Order="230" Show="1" Name="S13 Korkusuz Altın" Pic="2229" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="876" Order="231" Show="1" Name="S13 Ebedi Elmas" Pic="2230" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="877" Order="232" Show="1" Name="S13 Olağanüstü Kral" Pic="2231" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="879" Order="202" Show="1" Name="macera öğesi" Pic="2156" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="881" Order="201" Show="1" Name="Sonsuza kadar sev" Pic="2155" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="884" Order="214" Show="1" Name="S12 Geri Dönüşsüz Gümüş" Pic="2207" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="885" Order="215" Show="1" Name="S12 Korkusuz Altın" Pic="2208" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="886" Order="216" Show="1" Name="S12 Sonsuz Elmas" Pic="2209" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="887" Order="217" Show="1" Name="S12 Olağanüstü Kral" Pic="2210" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="892" Order="238" Show="1" Name="S14 Geri Dönüşsüz Gümüş" Pic="2216" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="893" Order="239" Show="1" Name="S14 Korkusuz Altın" Pic="2217" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="894" Order="240" Show="1" Name="S14 Sonsuz Elmas" Pic="2218" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="895" Order="241" Show="1" Name="S14 Olağanüstü Kral" Pic="2219" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="897" Order="218" Show="1" Name="Birincilik" Pic="2221" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="898" Order="219" Show="1" Name="İkincilik" Pic="2222" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="899" Order="220" Show="1" Name="Üçüncülük" Pic="2223" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="900" Order="221" Show="1" Name="Tepe Gücü" Pic="2224" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="915" Order="227" Show="1" Name="DDT'nin 11. yıl dönümü" Pic="2226" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="916" Order="228" Show="1" Name="11. toplantı" Pic="2227" Att="100" Def="100" Agi="100" Luck="100" Desc="Faaliyetler" />
+  <Item ID="918" Order="208" Show="1" Name="10 yıllık asker" Pic="2164" Att="35" Def="35" Agi="35" Luck="35" Desc="Faaliyetler" />
+  <Item ID="919" Order="249" Show="1" Name="S15 Geri Dönüşsüz Gümüş" Pic="2243" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="920" Order="250" Show="1" Name="S15 Korkusuz Altın" Pic="2244" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="921" Order="251" Show="1" Name="S15 Sonsuz Elmas" Pic="2245" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="922" Order="252" Show="1" Name="S15 Olağanüstü Kral" Pic="2246" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="923" Order="233" Show="1" Name="Afrika yerlileri" Pic="2247" Att="25" Def="25" Agi="25" Luck="25" Desc="Tek seferde 250 ilerleme taşı tüketerek 1. seviyeye başarısız bir şekilde ilerleyen ekipmanla elde edilir" />
+  <Item ID="924" Order="234" Show="1" Name="Vahşi Afrika" Pic="2248" Att="40" Def="40" Agi="40" Luck="40" Desc="Tek seferde 350 ilerleme taşı tüketerek ekipmanınızı 2. seviyeye başarısız bir şekilde ilerleterek elde edilir" />
+  <Item ID="925" Order="235" Show="1" Name="Afrika Devlet Başkanları" Pic="2249" Att="65" Def="65" Agi="65" Luck="65" Desc="Ekipmanın 3. seviyeye başarısız bir şekilde yükseltilmesiyle ve 500 ilerleme taşı tüketilerek elde edilir" />
+  <Item ID="926" Order="236" Show="1" Name="Büyük Afrikalı Şefler" Pic="2250" Att="150" Def="150" Agi="150" Luck="150" Desc="Kart Toplama Etkinliği sırasında arka arkaya 1500 başarısız Altın Kart çekilişinden alındı" />
+  <Item ID="927" Order="249" Show="1" Name="S16 Geri Dönüşsüz Gümüş" Pic="2251" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="928" Order="250" Show="1" Name="S16 Korkusuz Altın" Pic="2252" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="929" Order="251" Show="1" Name="S16 Sonsuz Elmas" Pic="2253" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="930" Order="252" Show="1" Name="S16 Olağanüstü Kral" Pic="2254" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="931" Order="253" Show="1" Name="yazı seviyorum" Pic="2500" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="932" Order="254" Show="1" Name="Dünya şampiyonluğunu hayal edin" Pic="7038" Att="2" Def="0" Agi="22" Luck="0" Desc="Faaliyetler" />
+  <Item ID="933" Order="255" Show="1" Name="para adamı  ve  #xA; stadyum" Pic="7039" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="934" Order="256" Show="1" Name="Stadyumda büyük başarı" Pic="7040" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="935" Order="257" Show="1" Name="Bay Futbolu Bilen" Pic="7041" Att="25" Def="25" Agi="25" Luck="25" Desc="Faaliyetler" />
+  <Item ID="936" Order="258" Show="1" Name="Kıdemli hayranlar" Pic="7042" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="937" Order="259" Show="1" Name="Ahtapot Paulo" Pic="7043" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="938" Order="260" Show="1" Name="Mutlu Futbol" Pic="7044" Att="1" Def="1" Agi="1" Luck="1" Desc="Faaliyetler" />
+  <Item ID="939" Order="261" Show="1" Name="Mutlu Noeller" Pic="2255" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="940" Order="262" Show="1" Name="S17 Geri Dönüşsüz Gümüş" Pic="2256" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="941" Order="263" Show="1" Name="S17 Korkusuz Altın" Pic="2257" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="942" Order="264" Show="1" Name="S17 Sonsuz Elmas" Pic="2258" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="943" Order="265" Show="1" Name="S17 Olağanüstü Kral" Pic="2259" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="944" Order="266" Show="1" Name="S18 Geri Dönüşsüz Gümüş" Pic="2260" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="945" Order="267" Show="1" Name="S18 Korkusuz Altın" Pic="2261" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="946" Order="268" Show="1" Name="S18 Sonsuz Elmas" Pic="2262" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="947" Order="243" Show="1" Name="Büyük Sahip" Pic="2271" Att="56" Def="56" Agi="56" Luck="56" Desc="Tarımsal Varlık Listesinde 1. sırada" />
+  <Item ID="948" Order="244" Show="1" Name="Usta Çiftçi" Pic="2272" Att="30" Def="30" Agi="30" Luck="30" Desc="Tarımsal Varlık Listesinde 2. sırada" />
+  <Item ID="949" Order="245" Show="1" Name="Bahçecilik Uzmanı" Pic="2273" Att="20" Def="20" Agi="20" Luck="20" Desc="Tarımsal Varlık Listesinde 3. sırada" />
+  <Item ID="950" Order="246" Show="1" Name="İmparator Çalışanı" Pic="2274" Att="50" Def="50" Agi="50" Luck="50" Desc="Çiftlik iş listesinde 1. sırada" />
+  <Item ID="951" Order="247" Show="1" Name="Kariyer Gurusu" Pic="2275" Att="20" Def="20" Agi="20" Luck="20" Desc="Çiftlik iş listesinde 2. sırada" />
+  <Item ID="952" Order="248" Show="1" Name="Yeni Başlayanlar İş Başında" Pic="2276" Att="10" Def="10" Agi="10" Luck="10" Desc="Çiftlik iş listesinde 3. sırada" />
+  <Item ID="956" Order="209" Show="1" Name="Noel Partisi" Pic="2165" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="957" Order="196" Show="1" Name="Yeni dönem 2020" Pic="2149" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="960" Order="269" Show="1" Name="S18 Olağanüstü Kral" Pic="2263" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="973" Order="203" Show="1" Name="Hayatın Koruyucuları" Pic="2159" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="984" Order="222" Show="1" Name="11 yıllık asker" Pic="2225" Att="40" Def="40" Agi="40" Luck="40" Desc="Faaliyetler" />
+  <Item ID="1000" Order="20" Show="1" Name="Ejderha Şövalyesi" Pic="2000" Att="30" Def="30" Agi="30" Luck="30" Desc="Dünyanın patronu" />
+  <Item ID="1001" Order="21" Show="1" Name="Bay Futbol" Pic="2001" Att="30" Def="30" Agi="30" Luck="30" Desc="Dünyanın patronu" />
+  <Item ID="1004" Order="113" Show="1" Name="Alışveriş Fanatiği" Pic="2004" Att="30" Def="30" Agi="30" Luck="30" Desc="Etkinlik ödülleri" />
+  <Item ID="1010" Order="22" Show="1" Name="Öğrenci" Pic="2010" Att="0" Def="10" Agi="5" Luck="0" Desc="Sihirli Kabin" />
+  <Item ID="1011" Order="23" Show="1" Name="Büyüye inanan" Pic="2011" Att="10" Def="0" Agi="5" Luck="0" Desc="Sihirli Kabin" />
+  <Item ID="1012" Order="24" Show="1" Name="Uzman sihirbaz" Pic="2012" Att="10" Def="0" Agi="0" Luck="5" Desc="Sihirli Kabin" />
+  <Item ID="1013" Order="114" Show="1" Name="Bana patron de" Pic="1035" Att="50" Def="50" Agi="50" Luck="50" Desc="Etkinlik ödülleri" />
+  <Item ID="1014" Order="116" Show="1" Name="Karnaval" Pic="3000" Att="20" Def="20" Agi="20" Luck="20" Desc="Etkinlik ödülleri" />
+  <Item ID="1016" Order="115" Show="1" Name="Mutlu Noeller" Pic="1061" Att="20" Def="20" Agi="20" Luck="20" Desc="Etkinlik ödülleri" />
+  <Item ID="1045" Order="242" Show="1" Name="Şiddetli kar" Pic="2369" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1092" Order="539" Show="1" Name="12 yıllık asker" Pic="2486" Att="42" Def="42" Agi="42" Luck="42" Desc="Faaliyetler" />
+  <Item ID="1126" Order="505" Show="1" Name="Yalın servet" Pic="2451" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1127" Order="506" Show="1" Name="Başarılı" Pic="2452" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1128" Order="507" Show="1" Name="Zengin" Pic="2453" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1129" Order="508" Show="1" Name="Para konusunda çılgın" Pic="2454" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1130" Order="509" Show="1" Name="Üst Sınıf" Pic="2455" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1131" Order="510" Show="1" Name="Para dolu" Pic="2456" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1132" Order="511" Show="1" Name="Şans çekmek" Pic="2457" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1133" Order="512" Show="1" Name="Milyoner" Pic="2458" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1134" Order="513" Show="1" Name="Multimilyoner" Pic="2459" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1135" Order="514" Show="1" Name="İlk milyar" Pic="2460" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1169" Order="540" Show="1" Name="13 yıllık asker" Pic="2487" Att="45" Def="45" Agi="45" Luck="45" Desc="Faaliyetler" />
+  <Item ID="1182" Order="577" Show="1" Name="Fasulye Savunması Savaş Başlığı" Pic="2524" Att="3" Def="3" Agi="3" Luck="3" Desc="Faaliyetler" />
+  <Item ID="1183" Order="578" Show="1" Name="Unvan Fasulyelerin Muhafızı" Pic="2525" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1184" Order="579" Show="1" Name="Unvan Fasulyelerin Tanrısı Koruyucusu" Pic="2526" Att="15" Def="10" Agi="15" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1220" Order="270" Show="1" Name="Kral Muhafızı" Pic="2361" Att="5" Def="3" Agi="3" Luck="3" Desc="Takım, King Bugou (Hero) City'de ilk kez kazandı" />
+  <Item ID="1221" Order="271" Show="1" Name="Kabile Şefi" Pic="2362" Att="3" Def="5" Agi="3" Luck="3" Desc="Takımın Evil Tribe'da (Hero) ilk kez kazanması" />
+  <Item ID="1222" Order="272" Show="1" Name="Elit Kale" Pic="2363" Att="3" Def="3" Agi="5" Luck="3" Desc="Takımın Darkhold'da (Hero) ilk kez kazanması" />
+  <Item ID="1223" Order="273" Show="1" Name="Ejderha Avcısı" Pic="2364" Att="3" Def="3" Agi="3" Luck="5" Desc="Takımın Dragon's Lair'de (Kahraman) ilk kez kazandığı maç" />
+  <Item ID="1224" Order="274" Show="1" Name="Sporcu" Pic="2365" Att="5" Def="5" Agi="3" Luck="3" Desc="Takımın Olimpiyatlarda ilk kez Bugou (Kahraman) kazanması" />
+  <Item ID="1225" Order="275" Show="1" Name="Zamanın Efendisi" Pic="2366" Att="3" Def="5" Agi="5" Luck="3" Desc="Takımın Swirl'de (Hero) ilk kez kazanması" />
+  <Item ID="1226" Order="276" Show="1" Name="Korkusuz" Pic="2367" Att="3" Def="3" Agi="5" Luck="5" Desc="Takımın Arena dos Guerreiros'a (Kahraman) ilk kez galip gelmesi" />
+  <Item ID="1227" Order="277" Show="1" Name="Resmi Komutan" Pic="2232" Att="8" Def="8" Agi="5" Luck="5" Desc="Takımın Sky City'de ilk kez kazanması (zor)" />
+  <Item ID="1228" Order="278" Show="1" Name="Ejderhanın Uçuşu" Pic="2233" Att="5" Def="8" Agi="8" Luck="5" Desc="Takımın Steam Factory'de (Hero) ilk kez kazanması" />
+  <Item ID="1229" Order="279" Show="1" Name="Hazine Avcısı" Pic="2234" Att="8" Def="5" Agi="8" Luck="5" Desc="Takımın Denizkızı Hazinesi'nde (Kahraman) ilk kez kazanması" />
+  <Item ID="1230" Order="280" Show="1" Name="Mağara Kaşifi" Pic="2235" Att="5" Def="5" Agi="8" Luck="8" Desc="Takımın Lav Mağarası'na ilk kez girmesi (zor)" />
+  <Item ID="1231" Order="281" Show="1" Name="Korsan Kaptan" Pic="2236" Att="5" Def="8" Agi="8" Luck="5" Desc="Takımın Gizemli Korsan Adası'nda (seviye 11) ilk kez kazanması" />
+  <Item ID="1232" Order="282" Show="1" Name="Ölümcül Kraliçe" Pic="2237" Att="10" Def="8" Agi="8" Luck="10" Desc="Takımın Formigueiro Mágico'da (Kahraman) ilk kez kazanması" />
+  <Item ID="1233" Order="283" Show="1" Name="Tavuk Koridoru" Pic="2238" Att="8" Def="10" Agi="10" Luck="8" Desc="Takımın Frango Koridoru'nda (Kahraman) ilk kez kazanması" />
+  <Item ID="1234" Order="284" Show="1" Name="Kralın Stili" Pic="2239" Att="30" Def="5" Agi="30" Luck="5" Desc="Arena Kralı liderlik tablosunda 2. sıradan 10. sıraya" />
+  <Item ID="1235" Order="285" Show="1" Name="Kral Tacı" Pic="2240" Att="100" Def="20" Agi="100" Luck="20" Desc="Arena Kralı liderlik tablosunda birinciliği kazanın" />
+  <Item ID="1236" Order="286" Show="1" Name="S19 Geri Dönüşümü Olmayan Gümüş" Pic="2300" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1237" Order="287" Show="1" Name="S19 Korkusuz Altın" Pic="2301" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1238" Order="288" Show="1" Name="S19 Sonsuz Elmas" Pic="2302" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1239" Order="289" Show="1" Name="S19 Olağanüstü Kral" Pic="2303" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1240" Order="515" Show="1" Name="S20 Geri Dönüşsüz Gümüş" Pic="2461" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1241" Order="516" Show="1" Name="S20 Korkusuz Altın" Pic="2462" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1242" Order="517" Show="1" Name="S20 Sonsuz Elmas" Pic="2463" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1243" Order="518" Show="1" Name="S20 Olağanüstü Kral" Pic="2464" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1244" Order="519" Show="1" Name="Topun Kralı" Pic="2465" Att="25" Def="25" Agi="25" Luck="25" Desc="Faaliyetler" />
+  <Item ID="1245" Order="520" Show="1" Name="Mezuniyet Kraliçesi" Pic="2466" Att="25" Def="25" Agi="25" Luck="25" Desc="Faaliyetler" />
+  <Item ID="1246" Order="521" Show="1" Name="DD Kader S1" Pic="2467" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1248" Order="522" Show="1" Name="küçük balık" Pic="2469" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1249" Order="523" Show="1" Name="S21 Geri Dönüşsüz Gümüş" Pic="2470" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1250" Order="524" Show="1" Name="S21 Korkusuz Altın" Pic="2471" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1251" Order="525" Show="1" Name="S21 Sonsuz Elmas" Pic="2472" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1252" Order="526" Show="1" Name="S21 Olağanüstü Kral" Pic="2473" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1253" Order="527" Show="1" Name="DDBOOSTER" Pic="2474" Att="60" Def="60" Agi="60" Luck="60" Desc="Faaliyetler" />
+  <Item ID="1254" Order="528" Show="1" Name="Anka Gözyaşları" Pic="2475" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1255" Order="529" Show="1" Name="S22 Geri Dönüşsüz Gümüş" Pic="2476" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1256" Order="530" Show="1" Name="S22 Korkusuz Altın" Pic="2477" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1257" Order="531" Show="1" Name="S22 Sonsuz Elmas" Pic="2478" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1258" Order="532" Show="1" Name="S22 Olağanüstü Kral" Pic="2479" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1259" Order="533" Show="1" Name="2024 DDT Mısır Festivali" Pic="2480" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1260" Order="534" Show="1" Name="Tatlı Krallık 2024" Pic="2481" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1261" Order="535" Show="1" Name="Tatlı Krallık Görevi 1- 2024" Pic="2482" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1262" Order="536" Show="1" Name="Gökkuşağı Alanı" Pic="2483" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1263" Order="537" Show="1" Name="Gölge Etki Alanı" Pic="2484" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1264" Order="538" Show="1" Name="14 yıllık kutlama" Pic="2485" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1265" Order="542" Show="1" Name="S23 Geri Dönüşsüz Gümüş" Pic="2489" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1266" Order="543" Show="1" Name="S23 Korkusuz Altın" Pic="2490" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1267" Order="544" Show="1" Name="S23 Sonsuz Elmas" Pic="2491" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1268" Order="545" Show="1" Name="S23 Olağanüstü Kral" Pic="2492" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1270" Order="547" Show="1" Name="Birlikte çalışmak" Pic="2494" Att="10" Def="10" Agi="10" Luck="10" Desc="Loncanın amigoluk aktivitelerinden elde edildi" />
+  <Item ID="1271" Order="548" Show="1" Name="Gök gürültüsü gibi" Pic="2495" Att="50" Def="50" Agi="50" Luck="50" Desc="Loncanın amigoluk aktivitelerinden elde edildi" />
+  <Item ID="1272" Order="549" Show="1" Name="Yankılanan" Pic="2496" Att="30" Def="30" Agi="30" Luck="30" Desc="Loncanın amigoluk aktivitelerinden elde edildi" />
+  <Item ID="1273" Order="550" Show="1" Name="Ünlü" Pic="2497" Att="20" Def="20" Agi="20" Luck="20" Desc="Loncanın amigoluk aktivitelerinden elde edildi" />
+  <Item ID="1274" Order="551" Show="1" Name="Cadılar Bayramı 2024" Pic="2498" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1275" Order="552" Show="1" Name="Kurtadam Klanı" Pic="2499" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1276" Order="553" Show="1" Name="Vampir Klanı" Pic="2500" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1277" Order="554" Show="1" Name="Mutlu Noeller 2024" Pic="2501" Att="40" Def="40" Agi="40" Luck="40" Desc="Faaliyetler" />
+  <Item ID="1278" Order="541" Show="1" Name="14 yıllık asker" Pic="2488" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1279" Order="555" Show="1" Name="Ben davrandım!" Pic="2502" Att="40" Def="40" Agi="40" Luck="40" Desc="Faaliyetler" />
+  <Item ID="1280" Order="556" Show="1" Name="Mutlu Noeller Jr." Pic="2503" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1281" Order="557" Show="1" Name="Hoş geldin 2025" Pic="2504" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1282" Order="558" Show="1" Name="DDTank 2025" Pic="2505" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1283" Order="559" Show="1" Name="Mutlu yıllar" Pic="2506" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1284" Order="560" Show="1" Name="DD Frevo" Pic="2537" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1285" Order="561" Show="1" Name="DD Samba" Pic="2538" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1286" Order="562" Show="1" Name="Tank Bloğu" Pic="2539" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1287" Order="563" Show="1" Name="S24 Geri Dönüşsüz Gümüş" Pic="2510" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1288" Order="564" Show="1" Name="S24 Korkusuz Altın" Pic="2511" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1289" Order="565" Show="1" Name="S24 Sonsuz Elmas" Pic="2512" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1290" Order="566" Show="1" Name="S24 Olağanüstü Kral" Pic="2513" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1291" Order="567" Show="1" Name="Yumurta avcısı NV 4" Pic="2514" Att="30" Def="10" Agi="30" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1292" Order="568" Show="1" Name="Yumurta avcısı NV 3" Pic="2515" Att="10" Def="30" Agi="10" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1293" Order="569" Show="1" Name="Yumurta avcısı NV 2" Pic="2516" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1294" Order="570" Show="1" Name="Yumurta avcısı NV 1" Pic="2517" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1295" Order="571" Show="1" Name="Mutlu Paskalyalar 2025" Pic="2518" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1296" Order="572" Show="1" Name="Yumurta Avı" Pic="2519" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1297" Order="573" Show="1" Name="Mısır Kralı" Pic="2520" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1298" Order="574" Show="1" Name="Mısır Kraliçesi" Pic="2521" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1299" Order="575" Show="1" Name="Milyonlarca" Pic="2522" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1300" Order="576" Show="1" Name="Festa Junina 2025" Pic="2523" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1301" Order="580" Show="1" Name="15 Yıllık DDTank" Pic="2527" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1302" Order="581" Show="1" Name="DDBUTANTE - 15. YILDÖNÜMÜ" Pic="2528" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1303" Order="582" Show="1" Name="Ormandaki Kaos" Pic="2529" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1304" Order="583" Show="1" Name="Ataların Adası" Pic="2530" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1305" Order="584" Show="1" Name="Elf Cazibesi" Pic="2531" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1306" Order="585" Show="1" Name="Elf Tahtı" Pic="2532" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1307" Order="586" Show="1" Name="S25 Geri Dönüşsüz Gümüş" Pic="2533" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1308" Order="587" Show="1" Name="S25 Korkusuz Altın" Pic="2534" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1309" Order="588" Show="1" Name="S25 Sonsuz Elmas" Pic="2535" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1310" Order="589" Show="1" Name="S25 Olağanüstü Kral" Pic="2536" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1311" Order="590" Show="1" Name="Büyülü Orman" Pic="2560" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1312" Order="591" Show="1" Name="Korkunç Festival" Pic="7001" Att="31" Def="31" Agi="31" Luck="31" Desc="Faaliyetler" />
+  <Item ID="1313" Order="592" Show="1" Name="Korkunç Gece" Pic="7002" Att="52" Def="13" Agi="52" Luck="13" Desc="Faaliyetler" />
+  <Item ID="1314" Order="593" Show="1" Name="İkramlar" Pic="7003" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1315" Order="594" Show="1" Name="Yaramazlık" Pic="7004" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1316" Order="595" Show="1" Name="CalDDeirão" Pic="7005" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1317" Order="596" Show="1" Name="Ölümün Kucaklaması" Pic="7006" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1318" Order="597" Show="1" Name="Noel Fabrikası" Pic="7007" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1319" Order="598" Show="1" Name="Mutlu Noeller 2025!" Pic="7008" Att="20" Def="10" Agi="20" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1320" Order="599" Show="1" Name="Dondurucu kar" Pic="7010" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1321" Order="600" Show="1" Name="Sihirli Kar" Pic="7011" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="1322" Order="601" Show="1" Name="Noel düşmanı" Pic="7012" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1323" Order="602" Show="1" Name="Mutlu yıllar 2026" Pic="7013" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1324" Order="603" Show="1" Name="Gizli Ülke 140. kat" Pic="2561" Att="10" Def="10" Agi="10" Luck="10" Desc="Gizli Ülkede Elde Edildi" />
+  <Item ID="1325" Order="604" Show="1" Name="Bulutlardaki Samba" Pic="7014" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1326" Order="605" Show="1" Name="DDkarnaval 2026" Pic="7015" Att="35" Def="35" Agi="35" Luck="35" Desc="Faaliyetler" />
+  <Item ID="1327" Order="606" Show="1" Name="Davul Kraliçesi" Pic="7016" Att="55" Def="55" Agi="55" Luck="55" Desc="Faaliyetler" />
+  <Item ID="1328" Order="607" Show="1" Name="Eğlence Kralı" Pic="7017" Att="55" Def="55" Agi="55" Luck="55" Desc="Faaliyetler" />
+  <Item ID="1329" Order="608" Show="1" Name="Karnaval 2026" Pic="7018" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1330" Order="609" Show="1" Name="S26 Geri Dönüşsüz Gümüş" Pic="7019" Att="5" Def="5" Agi="5" Luck="5" Desc="Faaliyetler" />
+  <Item ID="1331" Order="610" Show="1" Name="S26 Korkusuz Altın" Pic="7020" Att="8" Def="8" Agi="8" Luck="8" Desc="Faaliyetler" />
+  <Item ID="1332" Order="611" Show="1" Name="S26 Sonsuz Elmas" Pic="7021" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="1333" Order="612" Show="1" Name="S26 Olağanüstü Kral" Pic="7022" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="1334" Order="613" Show="1" Name="Mutlu Paskalyalar 2026" Pic="7023" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1335" Order="614" Show="1" Name="başlık Tavşan" Pic="7024" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1336" Order="615" Show="1" Name="Paskalya Tankı unvanı" Pic="7025" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1337" Order="616" Show="1" Name="ünvanı Şenlik Kralı" Pic="7026" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="1338" Order="617" Show="1" Name="başlık Çikolata Hazinesi" Pic="7027" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="1339" Order="618" Show="1" Name="başlık Savaş Tanrısı" Pic="7028" Att="77" Def="77" Agi="77" Luck="77" Desc="Faaliyetler" />
+  <Item ID="2034" Order="508" Show="1" Name="Büyük Kaşif" Pic="2507" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+  <Item ID="2035" Order="509" Show="1" Name="Labirentteki Hazine Avcısı" Pic="2508" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="2036" Order="510" Show="1" Name="Labirent Gezgini" Pic="2509" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="2059" Order="533" Show="1" Name="Dahi Koç" Pic="2550" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="2060" Order="534" Show="1" Name="Profesyonel Eğitmen" Pic="2551" Att="20" Def="20" Agi="20" Luck="20" Desc="Faaliyetler" />
+  <Item ID="2061" Order="535" Show="1" Name="Evcil Hayvan Ortağı" Pic="2552" Att="15" Def="15" Agi="15" Luck="15" Desc="Faaliyetler" />
+  <Item ID="5000" Order="150" Show="1" Name="Orta usta" Pic="8000" Att="30" Def="30" Agi="30" Luck="30" Desc="Faaliyetler" />
+  <Item ID="5001" Order="151" Show="1" Name="En iyi atıcı" Pic="8001" Att="40" Def="15" Agi="15" Luck="40" Desc="Faaliyetler" />
+  <Item ID="5002" Order="152" Show="1" Name="Süper savunucular" Pic="8002" Att="15" Def="40" Agi="40" Luck="15" Desc="Faaliyetler" />
+  <Item ID="5003" Order="153" Show="1" Name="Futbol fanatiği" Pic="8003" Att="10" Def="10" Agi="10" Luck="10" Desc="Faaliyetler" />
+  <Item ID="7002" Order="223" Show="1" Name="Onurlu Üst" Pic="2079" Att="80" Def="80" Agi="80" Luck="80" Desc="Faaliyetler" />
+  <Item ID="7003" Order="224" Show="1" Name="Yüce" Pic="2080" Att="50" Def="50" Agi="50" Luck="50" Desc="Faaliyetler" />
+</Result>

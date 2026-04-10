@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="splash-screen">
+        <div class="splash-content">
+            <img id="splash-logo" alt="Bombom">
+            <div id="loading-text">Oyun Yükleniyor<span class="dots"></span></div>
+        </div>
+    </div>
+
+    <div id="frame">
+        <div id="titlebar">
+            <div class="drag-area">
+                <div id="icon-left" class="left-icon"></div>
+                <div class="title-text">Bombom</div>
+            </div>
+            
+            <div class="controls">
+                <button id="btn-ss" class="zoom-btn" title="Ekran Görüntüsü Al" style="font-size:12px; width:30px;">📷</button>
+                <button id="btn-mute" class="zoom-btn" title="Sesi Kapat/Aç" style="font-size:12px; width:30px;">🔊</button>
+                
+                <button id="btn-zoom-in" class="zoom-btn">+</button>
+                <button id="btn-zoom-out" class="zoom-btn">-</button>
+                <div class="sys-wrapper">
+                    <div id="btn-temizle">Temizle</div>
+                    <img id="q-mark" class="q-mark" />
+                </div>
+                <div id="btn-min" class="sprite"></div>
+                <div id="btn-max" class="sprite"></div>
+                <div id="btn-close" class="sprite"></div>
+            </div>
+        </div>
+    </div>
+    <script src="renderer.js"></script>
+</body>
+</html>
