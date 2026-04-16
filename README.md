@@ -21,3 +21,5 @@ Eğer bu Türkçe istemciyi kullandıktan sonra **Türkiye (TR) sunucusunda** or
 1. İndirdiğiniz bu özel Türkçe Client klasörünü silin.
 2. `Windows + R` yapıp `%appdata%` yazarak açılan klasördeki **`ddt-play-mini-client`** klasörünü **tekrar silin**.
 3. Ardından TR sunucusunun kendi orijinal Client'ını indirip kurarak giriş yapabilirsiniz.
+
+Sorumluluk Reddi: Bu proje tamamen eğitim ve araştırma amaçlıdır. Bu yazılımın kullanımından doğabilecek her türlü teknik sorun veya hesap güvenliği riskinden kullanıcı sorumludur; geliştirici hiçbir sorumluluk kabul etmez.
